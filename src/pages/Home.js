@@ -75,43 +75,7 @@ function Home() {
       bud: "$14,000",
       progress: "1",
       member: "1",
-    },
-    {
-      img: ava2,
-      Title: "Progress Track",
-      bud: "$3,000",
-      progress: "1",
-      member: "1"
-    },
-    {
-      img: ava3,
-      Title: "Fix Platform Errors",
-      bud: "Not Set",
-      progress: "1",
-      member: "1",
-    },
-    {
-      img: ava4,
-      Title: "Launch new Mobile App",
-      bud: "$20,600",
-      progress: "1",
-      member: "1"
-    },
-    {
-      img: ava5,
-      Title: "Add the New Landing Page",
-      bud: "$4,000",
-      progress: "1",
-      member: "1",
-    },
-
-    {
-      img: ava6,
-      Title: "Redesign Online Store",
-      bud: "$2,000",
-      progress: "1",
-      member: "1"
-    },
+    }
   ];
 
   

@@ -272,7 +272,6 @@ function Header({
     <>
       <Row gutter={[24, 0]}>
         <Col span={24} md={6}>
-          Site Title
         </Col>
         <Col span={24} md={18} className="header-control">
           <Button

@@ -9,8 +9,8 @@
   =========================================================
   * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 */
-import { useState } from "react";
-
+import React ,{ useState,useEffect } from "react";
+import axios from "axios";
 import {
   Row,
   Col,
@@ -43,6 +43,12 @@ import project1 from "../assets/images/home-decor-1.jpeg";
 import project2 from "../assets/images/home-decor-2.jpeg";
 import project3 from "../assets/images/home-decor-3.jpeg";
 
+const baseURL = "https://pro-api.coinmarketcap.com/v1/cryptocurrency/info";
+const headers = {
+  'X-CMC_PRO_API_KEY': '129feaaa-96a6-4e8d-85f3-f5b26f7d3a22',
+  'Access-Control-Allow-Credentials':true
+}
+
 function Profile() {
   const [imageURL, setImageURL] = useState(false);
   const [, setLoading] = useState(false);
@@ -52,6 +58,19 @@ function Profile() {
     reader.addEventListener("load", () => callback(reader.result));
     reader.readAsDataURL(img);
   };
+
+    const yes = useEffect(() => {
+      axios.get(baseURL, {
+        headers: headers,
+        crossDomain: true,
+      })
+      .then((response) => {
+        console.log(response)
+      })
+      .catch((error) => {
+        console.log(error)
+      })
+    })  ;
 
   const beforeUpload = (file) => {
     const isJpgOrPng = file.type === "image/jpeg" || file.type === "image/png";
