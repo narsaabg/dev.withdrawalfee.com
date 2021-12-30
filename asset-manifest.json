@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/dev.withdrawalfee.com/static/css/main.e3d7475f.chunk.css",
-    "main.js": "/dev.withdrawalfee.com/static/js/main.43d8cf87.chunk.js",
-    "main.js.map": "/dev.withdrawalfee.com/static/js/main.43d8cf87.chunk.js.map",
+    "main.js": "/dev.withdrawalfee.com/static/js/main.5caf0f5f.chunk.js",
+    "main.js.map": "/dev.withdrawalfee.com/static/js/main.5caf0f5f.chunk.js.map",
     "runtime-main.js": "/dev.withdrawalfee.com/static/js/runtime-main.a3bedf45.js",
     "runtime-main.js.map": "/dev.withdrawalfee.com/static/js/runtime-main.a3bedf45.js.map",
     "static/css/2.5f5f9133.chunk.css": "/dev.withdrawalfee.com/static/css/2.5f5f9133.chunk.css",
-    "static/js/2.f19b5fff.chunk.js": "/dev.withdrawalfee.com/static/js/2.f19b5fff.chunk.js",
-    "static/js/2.f19b5fff.chunk.js.map": "/dev.withdrawalfee.com/static/js/2.f19b5fff.chunk.js.map",
+    "static/js/2.f8929411.chunk.js": "/dev.withdrawalfee.com/static/js/2.f8929411.chunk.js",
+    "static/js/2.f8929411.chunk.js.map": "/dev.withdrawalfee.com/static/js/2.f8929411.chunk.js.map",
     "index.html": "/dev.withdrawalfee.com/index.html",
     "static/css/2.5f5f9133.chunk.css.map": "/dev.withdrawalfee.com/static/css/2.5f5f9133.chunk.css.map",
     "static/css/main.e3d7475f.chunk.css.map": "/dev.withdrawalfee.com/static/css/main.e3d7475f.chunk.css.map",
-    "static/js/2.f19b5fff.chunk.js.LICENSE.txt": "/dev.withdrawalfee.com/static/js/2.f19b5fff.chunk.js.LICENSE.txt",
-    "static/js/main.43d8cf87.chunk.js.LICENSE.txt": "/dev.withdrawalfee.com/static/js/main.43d8cf87.chunk.js.LICENSE.txt",
+    "static/js/2.f8929411.chunk.js.LICENSE.txt": "/dev.withdrawalfee.com/static/js/2.f8929411.chunk.js.LICENSE.txt",
+    "static/js/main.5caf0f5f.chunk.js.LICENSE.txt": "/dev.withdrawalfee.com/static/js/main.5caf0f5f.chunk.js.LICENSE.txt",
     "static/media/Google__G__Logo.svg.bb49f97a.png": "/dev.withdrawalfee.com/static/media/Google__G__Logo.svg.bb49f97a.png",
     "static/media/bg-profile.9c36abe7.jpg": "/dev.withdrawalfee.com/static/media/bg-profile.9c36abe7.jpg",
     "static/media/main.css": "/dev.withdrawalfee.com/static/media/info-card-3.e73b3934.jpg",
@@ -46,8 +46,8 @@
   "entrypoints": [
     "static/js/runtime-main.a3bedf45.js",
     "static/css/2.5f5f9133.chunk.css",
-    "static/js/2.f19b5fff.chunk.js",
+    "static/js/2.f8929411.chunk.js",
     "static/css/main.e3d7475f.chunk.css",
-    "static/js/main.43d8cf87.chunk.js"
+    "static/js/main.5caf0f5f.chunk.js"
   ]
 }
